@@ -1,9 +1,6 @@
 Collection of utilities that windows doesn't have
 
 - [x] head
-- [ ] tail
-
-Tail command is currently broken
-
+- [x] tail (-f and reading for stdin are not implemented)
 
 Chose rust and regretted halfway fighting the compiler :(
